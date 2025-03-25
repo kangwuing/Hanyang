@@ -41,4 +41,4 @@ git push origin main
 
 ## B
 conda env create -f environment.yml
-conda activate <environment_name>
+conda activate myenv
