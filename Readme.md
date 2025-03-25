@@ -1,7 +1,7 @@
 # Code
 ## A
 git init
-git remote add origin https://github.com/kangwuing/Hanyang.git
+git remote add origin https://github.com/kangwuing/Learn_PyTorch.git
 git status
 git add .
 git commit -m "Initial commit"
@@ -11,7 +11,7 @@ git rebase --continue
 git push origin main
 
 ## B
-git clone https://github.com/kangwuing/Hanyang.git
+git clone https://github.com/kangwuing/Learn_PyTorch.git
 git pull origin main
 
 # Data DVC
