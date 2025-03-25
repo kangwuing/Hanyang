@@ -6,7 +6,7 @@ git status
 git add .
 git commit -m "Initial commit"
 git pull --rebase origin main
-git add <file_name>
+git add .
 git rebase --continue
 git push origin main
 
